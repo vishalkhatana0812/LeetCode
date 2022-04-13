@@ -1,0 +1,1 @@
+hello this is first file, i will try to upload all codes in this repo from leetcode
